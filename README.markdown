@@ -1,4 +1,4 @@
-# Nue - Import function from Another Funcaitonal Language for Common Lisp
+# Nue - Import function from Another Functional Language for Common Lisp
 
 ## Usage
 
